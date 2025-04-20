@@ -49,8 +49,16 @@ What I'll be placing in the answer are just text format please refer to [noteboo
 * Pandas
 * Numpy
 
-## License
+## How to run
+1. Clone this repo through https or ssh.
+2. Run this on virtual env `you don't want your local python setup to be messy ;)`
+3. Run this command
+```
+pip install -r requirements
+```
+4. Open it through Jupyter Notebook, VS Code, or any text editor that you use.
 
+## License
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgement
